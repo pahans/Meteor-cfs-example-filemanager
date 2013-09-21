@@ -1,0 +1,23 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "collectionFS": {
+        "git": "https://github.com/raix/Meteor-CollectionFS.git",
+        "tag": "v0.3.5"
+      }
+    },
+    "packages": {
+      "collectionFS": {
+        "git": "https://github.com/raix/Meteor-CollectionFS.git",
+        "tag": "v0.3.5",
+        "commit": "a6fbde6e2df3f081c51cad951305d1e0754d67de"
+      },
+      "cfs-public-folder": {
+        "git": "https://github.com/nooitaf/meteor-cfs-public-folder.git",
+        "tag": "v0.0.2",
+        "commit": "7531bc924a9b9e5ecd568932c7048692330882fb"
+      }
+    }
+  }
+}
